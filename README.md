@@ -2,4 +2,4 @@
 
 > Folder with interesting Python code implementations
 
-1. Script de Generación de Código QR
+1. Script de Generación de Código QR [[code_qr.py]]
